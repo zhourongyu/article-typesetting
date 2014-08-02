@@ -1,0 +1,35 @@
+body { 
+    font-family:"Hiragino Sans GB", "Microsoft Yahei", Helvetica, Arial, sans-serif; 
+    font-size: 16px; 
+    background-color: #eee;
+    background-image: url(../img/bg.jpg);
+}
+.container {
+max-width: 800px;
+background-color: #fff;
+}
+
+table td{
+    text-align: center;
+}
+
+td span, th span{
+padding: 2px 4px;
+font-size: 90%;
+color: #c7254e;
+background-color: #f9f2f4;
+border-radius: 4px;
+}
+
+.blog{
+font-weight: bold;
+font-size: 16px;
+margin: 0 0 5px 0;
+padding: 2px 4px;
+font-size: 90%;
+color: #c7254e;
+background-color: #f9f2f4;
+border-radius: 4px;
+}
+
+div{margin:10px 0 20px 0}
